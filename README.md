@@ -47,6 +47,7 @@ includes lectures, labs, assignments, and quizzes.
 
 For additional reading or self-study review, please see the following recommended resources:
 
+- [AWS re:Invent Videos](https://reinventvideos.com/)
 - [AWS Well-Architected Framework](https://aws.amazon.com/architecture/well-architected/)
 - [AWS Builders Library](https://aws.amazon.com/builders-library/)
 - [AWS Cloud Practitioner Essentials](https://www.aws.training/Details/Curriculum?id=27076)
